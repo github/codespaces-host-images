@@ -33,4 +33,4 @@
 | azcopy | 10.22.x | A command-line utility designed for copying data to/from Microsoft Azure Blob, File, and Table storage. (path: `/.codespaces/azcopy`) |
 
 
-<small>**Quality**: stable; **Codename**: blueberry</small>
+<small>**Quality**: beta; **Codename**: blueberry</small>

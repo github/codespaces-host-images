@@ -7,8 +7,6 @@
 
 **Host OS**: Ubuntu 22.04.5 LTS (Jammy Jellyfish)
 
-###TEST
-
 ### Installed Packages
 | Package | Version | Description |
 |---|---|---|
